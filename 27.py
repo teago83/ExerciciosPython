@@ -5,9 +5,9 @@ Observe que cada letra equivale a um número entre 1 e 26 e o espaço ao 0. Faç
 que recebe uma lista com uma mensagem (secreta) e "traduz" a sequência armazenada em uma lista.
 """
 
-from dicionario27 import dictionary
+from dicionario27 import Hmmm
 
-d = dictionary()
+d = Hmmm()
 mensagem = []
 joj = 0
 
